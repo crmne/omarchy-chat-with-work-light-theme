@@ -48,8 +48,9 @@ Sampled from the design tokens of [chatwithwork.com](https://chatwithwork.com).
 Original wallpapers made for this theme from the brand's own artwork:
 
 - `01-sticker.jpg`: The sticker mark centered with a soft float shadow over the orbit centre's blurred rainbow glow, on the site's 22px dot grid
-- `02-orbit.jpg`: The connector orbit from the marketing page: solid inner ring, dashed middle ring, faint outer ring, mark in a surface disc at the centre, signal-colored satellites
-- `03-live-wire.jpg`: A hairline "live wire" across the middle, lit with the rainbow and one orange dot, over a very soft low rainbow aurora and fading dot field
+- `02-logotype.jpg`: The logo with its name, centered
+- `03-orbit.jpg`: The connector orbit from the marketing page: solid inner ring, dashed middle ring, faint outer ring, mark in a surface disc at the centre, signal-colored satellites
+- `04-live-wire.jpg`: A hairline "live wire" across the middle, lit with the rainbow and one orange dot, over a very soft low rainbow aurora and fading dot field
 
 ## Requirements
 
